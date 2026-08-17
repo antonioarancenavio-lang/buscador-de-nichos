@@ -1,4 +1,4 @@
-
+{
   "2026-08-13": {
     "finiquito": {
       "name": "Calculadora de finiquito",
@@ -2467,6 +2467,10 @@
       "monthly_change_pct": 0.0,
       "breadth": 0,
       "sample_terms": [],
+      "opportunity": 2.9
+    }
+  }
+}
       "opportunity": 2.9
     }
   }
